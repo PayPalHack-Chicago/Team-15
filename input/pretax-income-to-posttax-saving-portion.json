@@ -1,0 +1,31 @@
+{
+    "quantileBounds": [
+        [ 0,     24638  ],
+        [ 24638, 47110  ],
+        [ 47110, 77552  ],
+        [ 77552, 126855 ],
+        [ 126855, 1E10  ]
+    ],
+    "quantileData": {
+        "0": {
+            "totalIncome": 25525,
+            "savingPortion": 0
+        },
+        "1": {
+            "totalIncome": 37319,
+            "savingPortion": 0
+        },
+        "2": {
+            "totalIncome": 52431,
+            "savingPortion": 0.055215426
+        },
+        "3": {
+            "totalIncome": 86363,
+            "savingPortion": 0.199796209
+        },
+        "4": {
+            "totalIncome": 188102,
+            "savingPortion": 0.265095533
+        }
+    }
+}
